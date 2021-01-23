@@ -5,7 +5,7 @@ const FormHome = () => {
     <div>
       
     </div>
-  )
+  );
 };
 
 export default FormHome;

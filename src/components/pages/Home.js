@@ -4,10 +4,10 @@ import FormHome from '../forms/FormHome';
 
 const Home = () => {
   return (
-    <div>
+    <div className="container">
       <FormHome />
     </div>
-  )
+  );
 };
 
 export default Home;
