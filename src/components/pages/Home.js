@@ -1,11 +1,14 @@
 import React from 'react';
 
-import FormHome from '../forms/FormHome';
+import Introduction from '../text/Introduction';
+import Form from '../forms/Form';
+import '../../styles/home.css';
 
 const Home = () => {
   return (
     <div className="container">
-      <FormHome />
+      <Introduction />
+      <Form />
     </div>
   );
 };

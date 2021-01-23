@@ -8,7 +8,7 @@ const Introduction = () => {
           Calculate!
         </h1>
         <h2 className="wv-heading--subtitle">
-          Provide two numbers to get the sum.
+          Provide two numbers, and I shall provide the sum.
         </h2>
       </div>
     </div>
